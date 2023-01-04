@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Patrick Hand', cursive !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #303030;
+  
+}
+
+code {
+  font-family: 'Patrick Hand', cursive !important;
+}
