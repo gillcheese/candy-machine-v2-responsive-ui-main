@@ -7,7 +7,7 @@
 All Candy Machine V2 functionalities are implemented, auto detected and maintained up-to-date :
 
 - public mint (with countdown when date in future)
-- civic support (gatekeeper)
+- civic support (gatekeeper) 
 - whitelist
 - presale true / false
 - end date / end number (endSettings)
