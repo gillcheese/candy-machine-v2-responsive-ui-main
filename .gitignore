@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/postcss-safe-parser
+/node_modules/postcss-safe-parser
 /.pnp
 .pnp.js
 
